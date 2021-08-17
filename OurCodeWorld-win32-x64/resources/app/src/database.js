@@ -3,7 +3,7 @@ const mysql = require('promise-mysql');
 const connection = mysql.createConnection({
   host: 'remotemysql.com',
   user: 'TW0dkF5vYA',
-  password: 'k886wGonJH',
+  password: 'nG1btgvDcu',
   database: 'TW0dkF5vYA'
 });
 
